@@ -1,6 +1,4 @@
 /** @type {import('next').NextConfig} */
-const nextConfig = {
-  output: 'export', // ✅ This line fixes the Vercel client-reference-manifest error
-};
+const nextConfig = {};
 
 export default nextConfig;
